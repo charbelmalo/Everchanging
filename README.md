@@ -5,6 +5,7 @@ colorFrom: purple
 colorTo: gray
 sdk: static
 pinned: true
+header: mini
 license: apache-2.0
 custom_headers:
   cross-origin-embedder-policy: require-corp
