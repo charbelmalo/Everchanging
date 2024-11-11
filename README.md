@@ -1,5 +1,5 @@
 ---
-title: 'Everchanging Quest '
+title: Everchanging Quest
 emoji: 👾
 colorFrom: purple
 colorTo: gray
